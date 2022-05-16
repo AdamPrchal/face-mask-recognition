@@ -10,6 +10,7 @@ jupyter = "^1.0.0"
 matplotlib = "^3.5.1"
 numpy = "^1.22.3"
 keras = "^2.8.0"
+ipykernel = "^6.13.0"
 tensorflow = "^2.8.0"
 
 [tool.poetry.dev-dependencies]
